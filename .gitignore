@@ -8,3 +8,6 @@ node_modules
 dist
 .env
 ._scratch_folder_
+*scratch*
+*scratch*.*
+
